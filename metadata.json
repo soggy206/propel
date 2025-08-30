@@ -1,0 +1,5 @@
+{
+  "name": "Propel Real Estate Management",
+  "description": "A comprehensive real estate management system to efficiently manage properties, leases, maintenance, and financial transactions. This initial version focuses on core property and tenant management.",
+  "requestFramePermissions": []
+}
